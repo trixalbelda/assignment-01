@@ -1,3 +1,3 @@
 # Assignment
 
-> Simple WordPress site with integration with Google Sheet
+> Simple WordPress site page with  plugins that integrates Google Sheet
