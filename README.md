@@ -1,1 +1,3 @@
-# ceo-mag-assignment-01
+# Assignment
+
+> Simple WordPress site with integration with Google Sheet
